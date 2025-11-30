@@ -1,0 +1,23 @@
+{
+  "name": "com.aarware.coretools",
+  "version": "1.0.0",
+  "displayName": "Aarware Core Tools",
+  "description": "Common functionality package for quick game bootstrapping with multi-platform service support",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.ugui": "1.0.0"
+  },
+  "keywords": [
+    "services",
+    "utilities",
+    "localization",
+    "networking",
+    "achievements",
+    "leaderboards"
+  ],
+  "author": {
+    "name": "Aarware",
+    "url": ""
+  }
+}

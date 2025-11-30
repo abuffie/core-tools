@@ -1,0 +1,17 @@
+{
+    "name": "Aarware.CoreTools",
+    "rootNamespace": "Aarware",
+    "references": [
+        "Unity.TextMeshPro",
+        "Unity.Ugui"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

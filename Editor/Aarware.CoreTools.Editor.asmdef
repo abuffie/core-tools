@@ -1,0 +1,20 @@
+{
+    "name": "Aarware.CoreTools.Editor",
+    "rootNamespace": "Aarware.Editor",
+    "references": [
+        "Aarware.CoreTools",
+        "Unity.TextMeshPro",
+        "Unity.Ugui"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
